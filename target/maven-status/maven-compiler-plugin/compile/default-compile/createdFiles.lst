@@ -1,0 +1,5 @@
+pt\tiago\demo\api\model\Task.class
+pt\tiago\demo\api\service\TaskService.class
+pt\tiago\demo\api\service\TaskServiceImpl.class
+pt\tiago\demo\api\DemoRestApplication.class
+pt\tiago\demo\api\TodoController.class
